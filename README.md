@@ -1,6 +1,5 @@
-# CascadeNet 3.0 — Intelligent Critical Infrastructure & Cascade Failure Simulation
+# CascadeNet — Intelligent Critical Infrastructure & Cascade Failure Simulation
 
-> **Hackathena Hackathon Project** | Wayanad District, Kerala, India
 > An AI/ML and Geospatial decision-support system that models how flood hazards propagate cascading failures across power grid, water supply, and healthcare infrastructure, and optimizes strategic investments using dynamic programming.
 
 ---
